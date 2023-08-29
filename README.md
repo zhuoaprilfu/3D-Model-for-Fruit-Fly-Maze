@@ -6,8 +6,11 @@ This repository contains 3D models for the 5 parts required to 3D print a fly, a
 To 3D print this maze:
 1. Download and install Blender (https://www.blender.org/) on your computer 
 2. Open each of the follwing files in Blender to export them in a format compatible with your 3D printer.
-   [Link Text](Attachments/FlyMazeTop.blend)
-   [Maze top ](Attachments/FlyMazeTop.blend)
+ 
+   
+   [Maze Top ](Attachments/FlyMazeTop.blend)
+   [Maze Bottom ](Attachments/FlyMazeBottom.blend)
+   
    ![](Attachments/FlyMazeTop.blend)
    ![](Attachments/FlyMazeBottom.blend)
    ![](Attachments/FlyMazeCenter.blend)
