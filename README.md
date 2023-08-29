@@ -6,7 +6,7 @@
 
  Attachments/fly maze-assembly animation.gif
 
-
+![](Attachments/FlyMazeAssemblyAnimation.gif)  
  
 Downlaod the .blender file
 
