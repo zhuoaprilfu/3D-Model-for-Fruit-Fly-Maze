@@ -9,6 +9,7 @@ To 3D print this maze:
  
    
    [Maze Top ](Attachments/FlyMazeTop.blend)
+   
    [Maze Bottom ](Attachments/FlyMazeBottom.blend)
    
    ![](Attachments/FlyMazeTop.blend)
