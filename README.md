@@ -1,7 +1,8 @@
 # 3D-Model-for-Fruit-Fly-Maze
 3D Model for Fruit Fly Maze printing
- 
-[Link Text](Attachments/fly maze-assembly animation.gif)
+
+
+[Link Text](Attachments/FlyMazeAssemblyAnimation.gif) 
 
  Attachments/fly maze-assembly animation.gif
 
