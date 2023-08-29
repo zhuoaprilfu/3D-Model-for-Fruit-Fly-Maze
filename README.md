@@ -1,5 +1,5 @@
 # 3D-Model-for-Fruit-Fly-Maze
-This repository contains 3D models for the 5 parts required to 3D print a fly, as shown below:
+This repository contains 3D models for the 5 parts required to 3D print of a fly maze, as shown below:
 
 ![](Attachments/FlyMazeAssemblyAnimation.gif)  
  
