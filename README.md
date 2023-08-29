@@ -11,12 +11,13 @@ To 3D print this maze:
    [Maze Top ](Attachments/FlyMazeTop.blend)
    
    [Maze Bottom ](Attachments/FlyMazeBottom.blend)
+
+   [Maze Center ](Attachments/FlyMazeCenter.blend)
    
-   ![](Attachments/FlyMazeTop.blend)
-   ![](Attachments/FlyMazeBottom.blend)
-   ![](Attachments/FlyMazeCenter.blend)
-   ![](Attachments/FlyMazeSide1.blend)
-   ![](Attachments/FlyMazeSide2.blend)  
-4. 3D Print the 5 parts and asssamble them together as illustared. 
+   [Maze Side 1 ](Attachments/FlyMazeSide1.blend)
+
+   [Maze Side 2 ](Attachments/FlyMazeSide2.blend)
+   
+4. 3D Print the 5 parts and asssamble them together as illustrated. 
 
  
