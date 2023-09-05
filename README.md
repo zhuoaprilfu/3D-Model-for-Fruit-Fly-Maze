@@ -2,7 +2,10 @@
 This repository contains 3D models for the 5 parts required to 3D print of a fly maze, as shown below:
 
 ![](Attachments/FlyMazeAssemblyAnimation.gif)  
- 
+
+Find a demo of using this maze to test fruit fly light preference:
+
+
 To 3D print this maze:
 1. Download and install Blender (https://www.blender.org/) on your computer 
 2. Open each of the follwing files in Blender to export them in a format compatible with your 3D printer.
