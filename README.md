@@ -3,7 +3,7 @@ This repository contains 3D models for the 5 parts required to 3D print of a fly
 
 ![](Attachments/FlyMazeAssemblyAnimation.gif)  
 
-Find a demo of using this maze to test fruit fly light preference:
+Find a demo of using this maze here:
 https://youtu.be/YZINpyV_n7Y
 
 
